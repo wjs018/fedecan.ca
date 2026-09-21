@@ -256,7 +256,7 @@ To unhide a post in PieFed, expand the Account menu at the top of the screen and
     enableBorder
   />
 
-Then, can unhide the posts using the three dots menu, this time selecting "Stop hiding this post from me"
+Then, you can unhide the posts using the three dots menu, this time selecting "Stop hiding this post from me"
 
 <VpvImage 
     :imageConfig="{ 
